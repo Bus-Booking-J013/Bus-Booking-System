@@ -149,10 +149,7 @@ const Footer = () => {
           </div>
 
           <div class="text-center">
-            © 2022 Copyright:
-            <a class="text-color-3" href="https://codewithmurad.com/">
-              codewithmurad.com
-            </a>
+            © 2024 Copyright:  bus_reservation_system J013       
           </div>
         </footer>
       </div>
